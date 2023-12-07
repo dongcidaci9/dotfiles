@@ -1,0 +1,10 @@
+[user]
+	name = 2023-liangzhongqi
+	email = liangzhongqi@stu.pku.edu.cn
+[core]
+	editor = vim
+	excludesfile = /home/liangzhongqi/.gitignore_global
+[color]
+	ui = true
+[alias]
+	graph = log --all --graph --decorate --oneline
